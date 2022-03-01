@@ -1,0 +1,850 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An A,B,C. for children Here is an A,B,C, deuised with sillables, with the Pater noster, the Creed &amp; the ten Commaundments in English.  And by this booke, a man that hath good capacitie, and can no letter in the book, may learne to read in the space of sixe weekes, both Latin and English, if he giue theretoo good diligence, as it hath been diuers times prooued.  Also you may learne thereby to write English truely and to knowe the true ortographie of the English tung..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07107</idno>
+            <idno type="OCLC"> 166384129</idno>
+            <idno type="STC">STC 19.5</idno>
+            <idno type="STC">ESTC S126832</idno>
+            <idno type="EEBO-CITATION">166384129</idno>
+            <idno type="OCLC">ocn 166384129</idno>
+            <idno type="VID">191454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191454)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2259:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An A,B,C. for children Here is an A,B,C, deuised with sillables, with the Pater noster, the Creed &amp; the ten Commaundments in English.  And by this booke, a man that hath good capacitie, and can no letter in the book, may learne to read in the space of sixe weekes, both Latin and English, if he giue theretoo good diligence, as it hath been diuers times prooued.  Also you may learne thereby to write English truely and to knowe the true ortographie of the English tung..</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>For Abraham Veale, dwelling in Paules Churchyard at the signe of the Lamb.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1570..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first ten lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Title within ornamental border, initials throughout.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+                  <note>Majority of text in English with "seauen peticions of the Pater noster" and "Articles of the faith" in Latin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Readers (Primary) --  Early works to 1800.</term>
+               <term>English language --  Alphabet --  Early works to 1800.</term>
+               <term>Reading (Elementary) --  England --  Early works to 1800.</term>
+               <term>Latin language --  Study and teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191454:1" rendition="simple:additions"/>
+            <head>An A, B, C. for children</head>
+            <argument>
+               <p>HEere is an A, B, C, deuiſed with ſillables, with the Pater noſter, the Creed &amp; the ten Commaun<g ref="char:EOLhyphen"/>dements in Engliſh.</p>
+               <p>¶ And by this Booke, a man that hath good capacitie, and can no letter in the Book, may learne to read in the ſpace of ſixe weekes, both Latin and Engliſh, if he giue theretoo good diligence, as it hath beene diuers times prooued. Alſo you may learne therby to write Engliſh truely and to knowe the true Ortographie of the Eng<g ref="char:EOLhyphen"/>liſhe tung.</p>
+            </argument>
+            <p>
+               <g ref="char:cross">✚</g>.A.b.c.d.e.f.g.h.i.k.l.m.n.o.p.q r.r.ſ.s.t.v.u.w x.y. z. &amp; . ꝰ. Eſt. Amen.</p>
+            <p>A.B.C.D.E.F.G.H.I.K.L.M.N.O.P.Q.R, S.T. V.W.X.Y.Z.</p>
+            <p>¶ In the name of the Father, and of the Sonne, and of the holy Ghoaſt, Amen.</p>
+            <list>
+               <item>a e i o v</item>
+               <item>ab eb ib ob vb</item>
+               <item>ac ec ic oc vc</item>
+               <item>ad ed id od vd</item>
+               <item>af ef if of vf</item>
+               <item>ag eg ig og vg</item>
+               <item>ak ek ik ok vk</item>
+               <item>al el il ol vl</item>
+               <item>am em im om vm</item>
+               <item>a e i o v</item>
+               <item>an en in on vn</item>
+               <item>ap ep ip op vp</item>
+               <item>ar er ir or vr</item>
+               <item>as es is os vs</item>
+               <item>at et it ot vt</item>
+               <item>au eu iu ou vu</item>
+               <item>ax ex ix ox vx</item>
+               <item>ay ey oy</item>
+            </list>
+            <pb facs="tcp:191454:2"/>
+            <list>
+               <item>Ba be bi bo bu</item>
+               <item>Ca ce ci co cu</item>
+               <item>Da de di do du</item>
+               <item>Fa fe fi fo fu</item>
+               <item>Ga ge gi go gu</item>
+               <item>Ia ie ii io iu</item>
+               <item>Ka ke ki ko ku</item>
+               <item>La le li lo lu</item>
+               <item>Ma me mi mo mu</item>
+               <item>Na ne ne ni no nu</item>
+               <item>Pa pe pi po pu</item>
+               <item>Qua que qui quo</item>
+               <item>Ra re ri ro ru</item>
+               <item>Sa ſe ſi ſo ſu</item>
+               <item>Ta te ti to tu</item>
+               <item>Va ve vi vo vu</item>
+               <item>Wa we wi wo wu</item>
+               <item>Xa Xe Xi Xo Xu</item>
+               <item>Ya ye yo yu</item>
+               <item>Za ze zi zo zu</item>
+            </list>
+            <list>
+               <item>Bab beb bib bob bub</item>
+               <item>Bac bec bic boc buc</item>
+               <item>Bad bed bid bod bud</item>
+               <item>Baf bef bif bof buf</item>
+               <item>Bag beg big bog bug</item>
+               <item>Bak bek bik bok buk</item>
+               <item>Bal bel bil bol bul</item>
+               <item>Bam bem bim bom bum</item>
+               <item>Ban ben bin bon bun</item>
+               <item>Bap bep bip bop bup</item>
+               <item>Bar ber bir bor bur</item>
+               <item>Bas bes bis bos bus</item>
+               <item>Bat bet bit bot but</item>
+               <item>Bau beu bou</item>
+               <item>Bax bex bix box bux</item>
+               <item>Bay bey boy</item>
+            </list>
+            <list>
+               <item>Cab ceb cib cob cub</item>
+               <item>Cac cec cic coc cuc</item>
+               <item>Cad ced cid cod cud</item>
+               <item>Caf cef cif cof cuf</item>
+               <item>Cag ceg ceg cig cog cug</item>
+               <item>Cak cek cik cok cuk</item>
+               <item>Cal cel cil col cul</item>
+               <item>Cam cem cim com cum</item>
+               <item>Can cen cin con cun</item>
+               <item>Cap cep cip cop cup</item>
+               <item>Car cer cir cor cur</item>
+               <item>Cas ces cis cos cus</item>
+               <item>Cat cet cit cot cut</item>
+               <item>Cau ceu cou</item>
+               <item>Cax cex cix cox cux</item>
+               <item>Cay cey coy</item>
+            </list>
+            <list>
+               <item>Dab deb dib dob dub</item>
+               <item>Dac dec dic doc duc</item>
+               <item>Dad ded did dob dud</item>
+               <item>Daf def dif dof duf</item>
+               <item>Dag deg gig dog dug</item>
+               <item>Dal del dil dol dul</item>
+               <item>Dam dem dim dom dum</item>
+               <item>Dan den din don dun</item>
+               <item>Dap dep dip dop dup.</item>
+               <item>Dar der dir dor dur</item>
+               <item>Das des dis dos dus</item>
+               <item>Dat det dit dot dut</item>
+               <item>Dau deu dou</item>
+               <pb facs="tcp:191454:2"/>
+               <item>Dax dex dix dox dur</item>
+               <item>Day dey doy duy</item>
+            </list>
+            <list>
+               <item>Fab feb fib fob fub</item>
+               <item>Fac fec fic foc fuc</item>
+               <item>Fad fed fid fod fud</item>
+               <item>Fag feg fig fog fug</item>
+               <item>Fak fek fik fok fuk</item>
+               <item>Fal fel fil fol ful</item>
+               <item>Fam fem fim fom fum</item>
+               <item>Fan fen fin fon fun</item>
+               <item>Fap fep fip fop fup</item>
+               <item>Far fer fir for fur</item>
+               <item>Fas fes fis fos fus</item>
+               <item>Fat fet fit fot fut</item>
+               <item>Fau fey fou</item>
+               <item>Fax fex fix fox fux</item>
+               <item>Fay fey foy fuy</item>
+            </list>
+            <list>
+               <item>Gab geb gib gob gub</item>
+               <item>Gac gec gic goc guc</item>
+               <item>Gad ged gid god gud</item>
+               <item>Gaf gef gif gof guf</item>
+               <item>Gag geg gig gog gug</item>
+               <item>Gak gek gik gok guk</item>
+               <item>Gal gel gil gol gul</item>
+               <item>Gam gem gim gom gum</item>
+               <item>Gan gen gin gon gun</item>
+               <item>Gap gep gip gop gup</item>
+               <item>Gar ger gir gor gur</item>
+               <item>Gas ges gis gos gus</item>
+               <item>Gat get git got gut.</item>
+               <item>Gau geu gou</item>
+               <item>Gax gex gix gox gux</item>
+               <item>Gay gey goy</item>
+            </list>
+            <list>
+               <item>Hab heb hib hob hub</item>
+               <item>Hac hec hic hoc huc</item>
+               <item>Had hed hid hod hud</item>
+               <item>Haf hef hi hof huf</item>
+               <item>Hag heg hig hog hug</item>
+               <item>Hak hek hik hok huk</item>
+               <item>Hal hel hil hol hul</item>
+               <item>Ham hem him hom hum</item>
+               <item>Han hen hin hon hun</item>
+               <item>Hap hep hip hop hup</item>
+               <item>Har her hir hor hur</item>
+               <item>Has hes his hos hus</item>
+               <item>Hat het hit hot hut</item>
+               <item>Hau heu hou</item>
+               <item>Hax hex hix hox hux</item>
+               <item>Hay hey hoy</item>
+            </list>
+            <list>
+               <item>Iab ieb iib iob iub</item>
+               <item>Iac iec iic ioc iuc</item>
+               <item>Iad ied iid iod iud</item>
+               <item>Iaf ief iif iof iuf</item>
+               <item>Iag ieg iig iog iug</item>
+               <item>Iak iek iik iok iuk</item>
+               <item>Ial iel iil iol iul</item>
+               <item>Iam iem iim iom ium</item>
+               <item>Ian ien iin ion iun</item>
+               <item>Iap iep iip iop iup</item>
+               <item>Iar ier iir ior iur</item>
+               <item>Ias ies iis ios ius</item>
+               <item>Iat iet iit iot iut</item>
+               <item>Iax iex iix iox iux</item>
+               <item>Iay iey ioy</item>
+            </list>
+            <list>
+               <pb facs="tcp:191454:3"/>
+               <item>Kab keb kib kob kub</item>
+               <item>Kac kec kic koc kuc</item>
+               <item>Kad ked kid kod kud</item>
+               <item>Kaf kef kif kof kuf</item>
+               <item>Kag keg kig kog kug</item>
+               <item>Kak kek kik kok kuk</item>
+               <item>Kal kel kil kol kul</item>
+               <item>Kam kem kim kom kum</item>
+               <item>Kan ken kin kon kun</item>
+               <item>Kap kep kip kop kup</item>
+               <item>Kar ker kir kor kur</item>
+               <item>Kas kes kis kos kus</item>
+               <item>Kat ket kit kot kut</item>
+               <item>Kau keu kou</item>
+               <item>Kax kex kix kox kux</item>
+               <item>Kay key koy</item>
+            </list>
+            <list>
+               <item>Lab leb lib lob lub</item>
+               <item>Lac lec lic loc luc</item>
+               <item>Lad led lid lod lud</item>
+               <item>Laf lef lif lof luf</item>
+               <item>Lag leg lig log lug</item>
+               <item>Lak lek lik lok luk</item>
+               <item>Lal lel lil lol lul</item>
+               <item>Lam lem lim lom lum</item>
+               <item>Lan len lin lon lun</item>
+               <item>Lap lep lip lop lup</item>
+               <item>Lar ler lir lor lur</item>
+               <item>Las les lis los lus</item>
+               <item>Lat let lit lot lut</item>
+               <item>Lau leu lou</item>
+               <item>Lax lex lix lox lux</item>
+               <item>Lay ley loy</item>
+            </list>
+            <list>
+               <item>Mab meb mib mob mub</item>
+               <item>Mac mec mic moc muc</item>
+               <item>Mad med mid mod mud</item>
+               <item>Maf mef mif mof muf</item>
+               <item>Mag meg mig mog mug</item>
+               <item>Mak mek mik mok muk</item>
+               <item>Mal mel mil mol mul</item>
+               <item>Mam mem mim mo<g ref="char:cmbAbbrStroke">̄</g> mum</item>
+               <item>Man men min mon mun</item>
+               <item>Map mep mip mop mup</item>
+               <item>Mar mer mir mor mur</item>
+               <item>Mas mes mis mos mus</item>
+               <item>Mat met mit mot mut</item>
+               <item>Mau meu mou</item>
+               <item>Max mex mix mox mux</item>
+               <item>May mey moy</item>
+            </list>
+            <list>
+               <item>Nab neb nib nob nub</item>
+               <item>Nac nec nic noc nuc</item>
+               <item>Nad ned nid nod nud</item>
+               <item>Naf nef nif nof nuf</item>
+               <item>Nag neg nig nog nug</item>
+               <item>Nak nek nik nok nuk</item>
+               <item>Nal Nel Nil Nol Nul</item>
+               <item>Nam nem nim nom num</item>
+               <item>Nan nen nin non nun</item>
+               <item>Nap nep nip nop nup</item>
+               <item>Nar ner nir nor nur</item>
+               <item>Nas nes nis nos nus</item>
+               <item>Nat net nit not nut</item>
+               <item>Nau neu nou</item>
+               <item>Nax nex nix nox nux</item>
+               <item>Nay ney noy</item>
+            </list>
+            <list>
+               <pb facs="tcp:191454:3"/>
+               <item>Pab peb pib pob pub</item>
+               <item>Pac pec pic poc puc</item>
+               <item>Pad ped pid pod pud</item>
+               <item>Paf pef pif pof puf</item>
+               <item>Pag peg pig pog pug</item>
+               <item>Pak pek pik pok puk</item>
+               <item>Pal pel pil pol pul</item>
+               <item>Pam pem pim pom pum</item>
+               <item>Pan pen pin pon pun</item>
+               <item>Pap pep pip pop pup</item>
+               <item>Par per pir por pur.</item>
+               <item>Pas pes pis pos pus</item>
+               <item>Pat pet pit pot put</item>
+               <item>Pau peu pou</item>
+               <item>Pax pex pix pox pux</item>
+               <item>Pay pey poy puy</item>
+            </list>
+            <list>
+               <item>Quab queb quib quob</item>
+               <item>Quac quec quic quoc</item>
+               <item>Quad qued quid quod</item>
+               <item>Quaf quef quif quof</item>
+               <item>Quag queg quig quog</item>
+               <item>Quak quek quik quok</item>
+               <item>Qual quel quil quol</item>
+               <item>Quam quem quim quom</item>
+               <item>Quan quen quin quon</item>
+               <item>Quap quep quip quop</item>
+               <item>Quar quer quir quor</item>
+               <item>Quas ques quis quos</item>
+               <item>Quat quet quit quot</item>
+               <item>Quau queu</item>
+               <item>Quax quex quix quox</item>
+               <item>Quay quey quoy</item>
+            </list>
+            <list>
+               <item>Rab reb rib rob rub</item>
+               <item>Rac rec ric roc ruc</item>
+               <item>Rad red rid rod rud</item>
+               <item>Raf ref rif rof ruf</item>
+               <item>Rag reg rig rog rug</item>
+               <item>Rak rek rik rok ruk</item>
+               <item>Ral rel ril rol rul</item>
+               <item>Ram rem rim rom rum</item>
+               <item>Ran ren rin ron run</item>
+               <item>Rap rep rip rop rup</item>
+               <item>Rar rer rir ror rur</item>
+               <item>Ras res ris ros rus</item>
+               <item>Rat ret rit rot rut</item>
+               <item>Raw rew row</item>
+               <item>Rax rex rix rox rux</item>
+               <item>Ray rey roy</item>
+            </list>
+            <list>
+               <item>Sab ſeb ſib ſob ſub</item>
+               <item>Sac ſec ſic ſoc ſuc</item>
+               <item>Sad ſed ſid ſod ſud</item>
+               <item>Saf ſef ſif ſof ſuf</item>
+               <item>Sag ſeg ſig ſog ſug</item>
+               <item>Sak ſek ſik ſok ſuk</item>
+               <item>Sal ſel ſil ſol ſul</item>
+               <item>Sam ſem ſim ſom ſum</item>
+               <item>San ſen ſin ſon ſun</item>
+               <item>Sap ſep ſip ſop ſup</item>
+               <item>Sar ſer ſir ſor ſur</item>
+               <item>Sas ſes ſis ſos ſus</item>
+               <item>Sat ſet ſit ſot ſut</item>
+               <item>Sau ſey ſou</item>
+               <item>Sax ſex ſix ſox ſux</item>
+               <item>Say ſey ſoy</item>
+               <pb facs="tcp:191454:4"/>
+               <item>Tab teb tib tob tub</item>
+               <item>Tac tec tic toc tuc</item>
+               <item>Tad ted tid tod tud</item>
+               <item>Taf tef tif tof tuf</item>
+               <item>Tag teg tig tog tug</item>
+               <item>Tak tek tik tok tuk</item>
+               <item>Tal tel til tol tul</item>
+               <item>Tam tem tim tom tum</item>
+               <item>Tan ten tin ton tun</item>
+               <item>Tap tep tip top tup</item>
+               <item>Tar ter tir tor tur</item>
+               <item>Tas tes tis tos tu</item>
+               <item>Tat tet tit tot tut</item>
+               <item>Tau teu tou</item>
+               <item>Tax tex tix tox tux.</item>
+               <item>Tay tey toy</item>
+            </list>
+            <list>
+               <item>Vab veb vib vob vub</item>
+               <item>Vac vec vic voc vuc</item>
+               <item>Vad ved vid vod vud</item>
+               <item>Vaf vef vif vof vuf</item>
+               <item>Vag veg vig vog vug</item>
+               <item>Vak vek vik vok vuk</item>
+               <item>Val vel vil vol vul</item>
+               <item>Vam vem vim vom vum</item>
+               <item>Van ven vin von vun</item>
+               <item>Vap vep vip vop vup</item>
+               <item>Var ver vir vor vur.</item>
+               <item>Vas ves vis vos vus</item>
+               <item>Vat vet vit vot vut</item>
+               <item>Vau veu viu vou</item>
+               <item>Vax vex vix vox vux</item>
+               <item>Vay vey voy vuy</item>
+            </list>
+            <list>
+               <item>Wab web wib wob wub</item>
+               <item>Wac wec wic woc wuc</item>
+               <item>wad wed wid wod wud</item>
+               <item>waf wef wif wof wuf</item>
+               <item>wag weg wig wog wug</item>
+               <item>wak wek wik wok wuk</item>
+               <item>wal wel wil wol wul</item>
+               <item>wam wem wim wo<g ref="char:cmbAbbrStroke">̄</g> wum</item>
+               <item>wan wen win won wun</item>
+               <item>wap wep wip wop wup</item>
+               <item>war wer wir wor wur</item>
+               <item>was wes wis wos wus</item>
+               <item>wat wet wit wot wut</item>
+               <item>wau weu wou</item>
+               <item>wax wex wix wox wux</item>
+               <item>way wey woy</item>
+            </list>
+            <list>
+               <item>Yab yeb yib yob yub</item>
+               <item>Yac yec yic yoc yuc</item>
+               <item>Yad yed yid yod yud</item>
+               <item>Yaf yef yif yof yuf</item>
+               <item>Yag yeg yig yog yug</item>
+               <item>Yak yek yik yok yuk</item>
+               <item>Yal yel yol</item>
+               <item>Yam yem yom</item>
+               <item>Yan yen yon</item>
+               <item>Yap yep yop</item>
+               <item>Yar yer yor</item>
+               <item>Yas yes yos</item>
+               <item>Yat yet yot</item>
+               <item>Yau yeu you</item>
+               <item>Yax yex yox</item>
+               <item>Yay yey yoy</item>
+            </list>
+            <list>
+               <pb facs="tcp:191454:4"/>
+               <item>Zab zeb zib zob zub</item>
+               <item>Zac zec zic zor zuc</item>
+               <item>Zad zed zid zod zud</item>
+               <item>Zaf zef zif zof zuf</item>
+               <item>Zag zeg zig zog zug</item>
+               <item>Zak zek zik zok zuk</item>
+               <item>Zal zel zil zol zul</item>
+               <item>Zam zem zim zom zum</item>
+               <item>Zan zen zin zon zun</item>
+               <item>Zap zep zip zop zup</item>
+               <item>Zar zer zir zor zur</item>
+               <item>Zas zes zis zos zus</item>
+               <item>Zat zet zit zot zut</item>
+               <item>Zau zeu ziu zou</item>
+               <item>Zaz zez ziz zoz zuz</item>
+               <item>Zay zey zoy</item>
+            </list>
+            <list>
+               <head>¶ Conſonantes that goe before the vowels.</head>
+               <item>Bra bre bri bro bru</item>
+               <item>Dra dre dri dro dru</item>
+               <item>Gra gre gri gro gru</item>
+               <item>Tra tre tri tro tru</item>
+               <item>Cla cle cli clo clu</item>
+               <item>Gla gle gli glo glu</item>
+               <item>Pla ple pli plo plu</item>
+               <item>Kna kne kni kno knu</item>
+               <item>Ska ſke ſki ſko ſku</item>
+               <item>Sna ſne ſni ſno ſnu</item>
+               <item>Spa ſpe ſpi ſpo ſpu</item>
+               <item>Squa ſque ſpui ſquo</item>
+               <item>Twa twe twi two</item>
+               <item>Stra ſtre ſtri ſtro ſtru</item>
+               <item>Spra ſpre ſpri ſpro ſpru</item>
+               <item>Thra thre thri thro thru</item>
+               <item>Thwa thwe thwi thwo</item>
+               <item>Cra cre cri cro cru</item>
+               <item>Fra fre fri fro fru</item>
+               <item>Pra pre pri pro pru</item>
+               <item>Bla ble bli blo blu</item>
+               <item>Fla fle fli flo flu</item>
+               <item>Kla kle kli klo klu</item>
+               <item>Sla ſle ſli ſlo ſlu</item>
+               <item>Sha ſhe ſhi ſho ſhu</item>
+               <item>Sma ſme ſmi ſmo ſmu</item>
+               <item>Shra ſhre ſhri ſhro ſhru</item>
+               <item>Sta ſte ſti ſto ſtu</item>
+               <item>Cha che chi cho chu</item>
+               <item>Gua gue gui guo</item>
+               <item>Spla ſple ſpli ſplo ſplu</item>
+               <item>Tha the thi tho thu</item>
+               <item>Twa twe twi two</item>
+               <item>Wra wre wri wro</item>
+            </list>
+            <list>
+               <head>¶ Conſonantes that doo follow the vowels.</head>
+               <item>Abs ebs ibs obs vbs</item>
+               <item>Ads eds ids ods vds</item>
+               <item>Aft eft ift oft vft</item>
+               <item>Ags egs igs ogs vgs</item>
+               <item>Alk elk ilk olk vlk</item>
+               <item>Alp elp ilp olp vlp</item>
+               <item>Alt elt ilt olt vlt</item>
+               <item>Amb emb imb omb vmb</item>
+               <item>Anc enc inc onc vnc</item>
+               <item>Act ect ict oct vct</item>
+               <pb facs="tcp:191454:5"/>
+               <item>Ach ech ich och vch</item>
+               <item>Agh egh igh ogh vgh</item>
+               <item>Alb elb ilb olb vlb</item>
+               <item>Alg elg ilg olg vlg</item>
+               <item>Als els ils ols vls</item>
+               <item>Alx elx ilx olx vlx</item>
+               <item>Amp emp imp omp vmp</item>
+               <item>Ank enk ink onk vnk</item>
+               <item>And end ind ond vnd</item>
+               <item>Ang eng ing ong vng</item>
+               <item>Ans ens ins ons vns</item>
+               <item>Ant ent int ont vnt</item>
+               <item>Anx enx inx onx vnx</item>
+               <item>Aps eps ips ops vps</item>
+               <item>Arb erb irb orb vrb</item>
+               <item>Ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s er<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s or<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s vr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</item>
+               <item>Arps erps irps orps vrps</item>
+               <item>Arc erc irc orc vrc</item>
+               <item>Ard erd ird ord vrd</item>
+               <item>Arf erf irf orf vrf</item>
+               <item>Arg erg irg org vrg</item>
+               <item>Arl erl irl orl vrl</item>
+               <item>Arm erm irm orm vrm</item>
+               <item>Arn ern irn orn vrn</item>
+               <item>Ars ers irs ors vrs</item>
+               <item>Art ert irt ort vrt</item>
+               <item>Aſk eſk iſk oſk vſk</item>
+               <item>Aſp eſp iſp oſp vſp</item>
+               <item>Aſt eſt iſt oſt vſt</item>
+               <item>Ats ets its ots vts</item>
+            </list>
+            <p>¶ Heer follow ſeauen Vowels, which of neceſſitie wee muſt vſe needes in the Engliſh tung. a.e.i.o.u.oo.ee.</p>
+            <p>¶ Heere followe their dipthonges which of neceſſitie wee muſt needes vſe for the Engliſhe tung. ay.au.ee.ey.eu.ya.yo.oo.ou.</p>
+            <p>¶ Of the ſingle (e) and double (ee) and of the ſingle o and bouble oo. when the one and the other ought to be writ ten. The ſingle e, when he commeth alone in the latter end of a Sillable, or els with a Conſonant after him: ſhould be ſound ſhorte and out of the mouth, as when I ſaye thus. This beaſte I ſle, this Conny I fie, I break my hed, I goe to bed, I hurt my leg, this man doth beg All theſe woordes in the latter end of theſe rimes (that is) ſle, fle, hed, bed, leg, beg, are ſounded open without the mouth and ſomewhat ſhorte, therfore they would
+<pb facs="tcp:191454:5"/>be written with ſingle (e) &amp; ſo the Italians vſe to ſound the ſingle (e) and ſo we ought to teach Children to ſound it in learning their Croſrowe. But when I ſay thus, be<g ref="char:EOLhyphen"/>holde I ſee, I kneele on my knee, this birde dooth breede, my noſe dooth bleed, this man I ween, is ſick in the ſpleen, all theſe woordes in the latter end of theſe rimes, (that is to ſaye) knee, breede, bleed, ween, ſpleen, are ſounded cloſe within the mouth, and ſome what more prolonged, ther<g ref="char:EOLhyphen"/>fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they would be written with the double (ee) for it is more conuement to prolong the double (ee) then the ſingle (e) and alſo more conuenient to make ſhort the ſin<g ref="char:EOLhyphen"/>gle (e) and not the double (ee) and the ſame rule would be obſerued in the ſingle (o) and the double (oo) for when I ſaye thus. A barraine Do, is as ſwilt as a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o. I looue wel God, ſmite with y<hi rend="sup">e</hi> rod. Theſe woords do, to, god, red would be written w<hi rend="sup">t</hi> ſingle (o) But when I ſay this wo<g ref="char:EOLhyphen"/>man I woo, this woorke I doo, the bleſſed rood amend your mood, theſe woordes woo, doo, rood, mood, would be writte<g ref="char:cmbAbbrStroke">̄</g> with double (oo) and ſo y<hi rend="sup">e</hi> double (oo) ought to be ſounded long, and within the mouth, &amp; the ſingle (o) ſhort and out of the mouth, and we ought to teach our children to ſou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de the ſingle (o) in learning them the Croſte we as the Italians ſound it. Neuertheles there is many woo, des in Engliſhe that men vſe to ſound ſomtime af<g ref="char:EOLhyphen"/>ter the ſingle (e) and ſometime after the double (ee) and ſomtime after the ſingle (o) and ſomtime after the double (oo) yee may write them with ſingle (e) or double (ee) and with ſingle (o) or double(oo) at your pleaſure.</p>
+            <p>When the ſingle (e) ſhould be written in the latter end of an Engliſhe woord to perſou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me the ſound, and when it ſhould not.</p>
+            <p>¶ There is other woords in our Engliſh tung written with ſingle (e) and ſounded open out of the mouth and prolonged, as when I ſaye thus. By counſaile and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ede
+<pb facs="tcp:191454:6"/>I walked in a mede of ten Acres brede. Theſe woordes rede, mede, brede, becauſe they are ſounded open out of the mouth they ought to be written with ſingle (e) and becauſe they are prolonged in ſonnd, they ought to haue an other ſingle (e) in the latter end of the ſillable to pro<g ref="char:EOLhyphen"/>long the ſound, which wee vſe oftetimes in the Engliſh tung, throughout the fiue Vowelles. As when I ſaye thus. In the water I wade, I walke in the ſhade, my bowe is weake, I will it break, this pere is ripe, giue it a ſtripe, full weil I hope to drinke a ſope, my Purſſe of tuke, was made in luke. All theſe woords, wade, ſhade, weak, break, ripe, ſtripe, hope, ſope, tuke luke, are ſoun<g ref="char:EOLhyphen"/>ded out of the mouth, and prolonged by putting to the ſingle (e) in the latter end of the ſillable. But if that (e) be put away: then ſhall the ſillables be ſounded ſhort as wad, ſhad, wek, brek, rip, ſtrip, hop, ſop, &amp;c. Alſo in theſe pointes the Engliſhe tung is much more to be praiſed then the French, becauſe in French they write ofttimes many Lettrs that leeſe their proper ſound, but in Eng<g ref="char:EOLhyphen"/>liſhe we vſe to write no letter but they are ſounded, ex<g ref="char:EOLhyphen"/>cept it be in certaine woordes vſed of late, which are bo<g ref="char:EOLhyphen"/>rowed of the French tung, which ſhall greatlye hurt the Engliſh tung if it be ſo continued. For in the Latin tung and other ſubſtantiall congrue languages, they vſe ſel<g ref="char:EOLhyphen"/>dome ſuch errors.</p>
+            <p>¶ Alſo you muſt vnderſtand that moſt commonly ſo oft as this letter (ſ) commeth ſingle in the midſt of any woord, or the latter end hauing this letter (e) immedi<g ref="char:EOLhyphen"/>atly following (ſ) the (ſ) ſhall beare the ſound of (z) as example, to muſe much maſeth the minde.</p>
+            <list>
+               <head>¶ The Dipthonges for the Engliſhe tung. Ay, au, ee, ey, eu, ya, ye, yo, oo, oy, ou.</head>
+               <pb facs="tcp:191454:6"/>
+               <item>Aid maid raid fraid rain brain ſwain. Hail wail rail ait wait ſtrait hait haid. Rained wair aik.</item>
+               <item>
+                  <label>Au</label> Aud baud fraud gaun gaunt graunt awn haunt ſaunt fraunt.
+<list>
+                     <item>This dipthong au is oft written in Engliſh with w.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Ee</label> Flee gree fee heed meed greek week creep ſweep weep.</item>
+               <item>
+                  <label>Ey</label> Eyl eyld heyl reyk weyk teyk ſeyn heyn treyn heyr feyr.</item>
+               <item>
+                  <label>Eu</label> Eue lewd ſhrewd lewt rewin fewl new
+<list>
+                     <item>This dipthong eu is written in Engliſh with w.</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Ya</label> Yate yeath,</item>
+               <item>
+                  <label>Ye</label> Yel yeld yeſt.</item>
+               <item>
+                  <label>Yo</label> You youth yole.</item>
+               <item>
+                  <label>Oo</label> Doo woo brood good ſtood wood hoof loof book ſhook took fool pool ſool tool toom boon moon ſoon.</item>
+               <item>
+                  <label>Oy</label> Roy ſoy lay ſoyl oyl foyl coyf ſoys noys.</item>
+               <item>
+                  <label>Ou</label> Lowd clowd town ſownd fower tower ſhower owl knowl bowl ſows mows rowt, dowt ſhowt tows frows:
+<list>
+                     <item>¶ This dipthong ou, written in Engliſh with w.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Engliſh Terminations.</head>
+               <item>Ach ech ich och vch</item>
+               <item>Ath eth ith oth vth</item>
+               <item>Aſh eſh iſh oſh vſh</item>
+               <item>Agh egh igh ogh vgh</item>
+               <item>Aght eght ight oght vght.</item>
+               <item>Bath crath kath lath math path tath ſnath</item>
+               <item>Bache lache crache drache tache.</item>
+               <pb facs="tcp:191454:7"/>
+               <item>Bech fech, rech thech</item>
+               <item>Beche feche reche leche teche peche</item>
+               <item>Beech feech keech ſeech</item>
+               <item>Bych pych lych mych rich tych ſtych wych which</item>
+               <item>Byche pyche tyche riche diche whiche miche</item>
+               <item>Boche loche poche moche roche</item>
+               <item>Buch duch gruch luch much</item>
+               <item>Bagh lagh begh legh ſigh nigh bogh dogh</item>
+               <item>Kogh bugh hagh mugh</item>
+               <item>Aght kaht faght beght feght ſiſight weght bight</item>
+               <item>Sight night wight night foght noght bught lught</item>
+               <item>Baſſh daſſh laſſh maſſh naſſh raſſh waſſh traſſh</item>
+               <item>Flaſſh raſſh beſſh freſſh fleſſh neſſh biſſh diſſh</item>
+               <item>Syſſh wiſſh riſſh boſſh doſſh throſſh froſſh noſſh</item>
+               <item>Buſh duſh fruſh luſh ruſh thruſh</item>
+               <item>Bath lath math b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath grath rath</item>
+               <item>Bathe lathe mathe blathe grathe rathe</item>
+               <item>Beth neth heth leth wreth neth queth ſheth beth</item>
+               <item>Wreeth beeth ſeeth teeth</item>
+               <item>Both hoth wroth ſooth tooth</item>
+               <item>Buth ruth buthe ruthe truthe</item>
+               <item>Bab bebe bik bake bal bale ban bane</item>
+               <item>Bas baſe bat bate</item>
+               <item>Bred brede breed mede meed red rede reed</item>
+               <item>Bib bibe hid hide rid ride dik dike fil file</item>
+               <item>Bob bobe boobe God gode good rod rode rood</item>
+               <item>Bub bube rud rude lud lude mul mule.</item>
+            </list>
+            <p>¶ Heere follow certaine breuiatures that may be ſpelled alone, and ſome that ca<g ref="char:cmbAbbrStroke">̄</g>not be ſpelled but in other woords and examples of the ſame.</p>
+            <p>¶ a<g ref="char:cmbAbbrStroke">̄</g>, am, an, e<g ref="char:cmbAbbrStroke">̄</g>, em, en, i<g ref="char:cmbAbbrStroke">̄</g>, im, in, o<g ref="char:cmbAbbrStroke">̄</g>, om, on, u<g ref="char:cmbAbbrStroke">̄</g>, vm, vn, ꝑ, par, <expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>, que, ꝓ pro, ꝙ, quod, <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan>, quam, &amp;, and, ꝰ, vs, y<hi rend="sup">t</hi>, that, y<hi rend="sup">e</hi>, the, y<hi rend="sup">u</hi>, thou, w<hi rend="sup">t</hi> with.</p>
+            <div type="prayer">
+               <pb facs="tcp:191454:7"/>
+               <head>The ſeauen peticions of the Pater noſter, in Latin and Engliſh.</head>
+               <p>
+                  <hi>PAter noſter qui es in coelis: ſanctificetur nomen tuum, Adueniat regnum tuum. Fiat voluntas tua, ſicut in coelo &amp; in terra. Panem noſtrum quotidianom da nobis hodie. Et dimitte nobis debita noſtra, ſicut &amp; nos demitumus debito<g ref="char:EOLhyphen"/>ribus noſtris. Et ne nos inducas in tentationem. Sed libera nos a malo. Amen.</hi>
+               </p>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur Father which art in Heauen halowed be thy name. Thy kingdome come. Thy will be doone in Earth as it is in Heauen. Giue vs this daye our daylye bread, and forgiue vs our treſpaſſes, as we forgiue them that treſpas againſt vs. And lead vs not into temp<g ref="char:EOLhyphen"/>tation. But deliuer vs from euill. So be it.</p>
+            </div>
+            <div type="articles">
+               <head>¶ The Articles of the faith.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">C</seg>Redo in Deum patrem omnipotentem, creatorem coeli &amp; terrae, Et in Ieſum Chriſtum filium eius v<g ref="char:EOLhyphen"/>nicum dominum noſtrum. Qui conceptus eſt de ſpiritu ſancto. Natus ex Maria virgine. Paſſus ſub Poncio Pilato. Crucifixus mortuus &amp; ſepultus. Deſcendit ad inferna, tertia die reſurrexit a martuis. Aſcendit ad coelos, ſedet ad dexteram dei patris omnipotentis. Inde venturus eſt iudicare viuos &amp; mortuos. Credo in ſpiritum ſanctum, ſanc tam eccleſiam catholicam, ancto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:cmbAbbrStroke">̄</g> communionem, remiſ<g ref="char:EOLhyphen"/>ſionem peccatorum, carnis reſurrectionem. Et vitam eter<g ref="char:EOLhyphen"/>nam. Amen.</hi>
+               </p>
+               <p>I Beleeue in God the father almighty, maker of heauen and Earth. And in Ieſus Chriſt his onely Sonne our Lord. Which was conceiued by the holy Ghoaſt, borne of the Virgin Mary, ſuffered vnder Ponce Pilate, was
+<pb facs="tcp:191454:8"/>crucified, dead and buried, he deſcended into hell. The third day he roſe againe from the dead. He aſcended into Heauen, and ſitteth on the right hand of God the Father almighty. From thence he ſhall come to iudge the quick and the dead. I beleeue in the holy Ghoſt, the holy catho<g ref="char:EOLhyphen"/>lick Church. The communion of ſaints. The forgiuenes of ſinnes. The reſurrection of the body. And the life euer<g ref="char:EOLhyphen"/>laſting Amen.</p>
+            </div>
+            <div type="ten_commandments">
+               <head>¶ The ten commaundementes of almighty God.</head>
+               <p>I Am the Lord thy God which haue brought thee out of the land of Egipt, out of the houſe of bondage.</p>
+               <p n="1">
+                  <hi>1</hi> Thou ſhalt haue none other Gods but me.</p>
+               <p n="2">
+                  <hi>2</hi> Thou ſhalt not make to thy ſelfe any grauen Image, nor the likenes of any thing that is in Heauen abooue or in the earth beneath, or in the water vnder the earth, Thou ſhalt not bow downe to them nor woorſhip them, for I the Lord thy God am a geloꝰ God, and viſite the ſinnes of the Fathers vpon the Children, vnto the third and fourth generation, of them that hate me and ſhewe mercy vnto thouſandes, in them that looue me and keepe my commaundementes.</p>
+               <p n="3">
+                  <hi>3</hi> Thou ſhalt not take the name of the Lord thy God in vaine, for the Lord will not holde him giltles that ta<g ref="char:EOLhyphen"/>keth his name in vaine.</p>
+               <p n="4">
+                  <hi>4</hi> Remember that thou keepe holy the Sabboth day, ſix dayes ſhalt thou labour and doo all that thou haſt to doo: but the ſeauenth daye is the Sabboth of the Lord thy God. In it thou ſhalt doo no manner of woorke, thou and thy Sonne and thy Daughter, thy Man ſeruant, and thy Maide Seruant, thy Cattell and the Straunger that is within thy Gates, for in ſixe dayes the LORD
+<pb facs="tcp:191454:8"/>made heauen and earth, the Sea and all that in them is, and reſted the ſeauenth day. Wherefore the Lord bleſſed the ſeauenth day and hallowed it.</p>
+               <p n="5">
+                  <hi>5</hi> Honor thy Father and Mother that thy deies may be long in the Land which the Lord thy God giueth thee.</p>
+               <p n="6">
+                  <hi>6</hi> Thou ſhalt doo no murder. <hi>7.</hi> Thou ſhalt not com<g ref="char:EOLhyphen"/>mit adultrie. <hi>8.</hi> Thou ſhalt not ſteale. <hi>9</hi> Thou ſhalt not beare falce witnes againſt thy neighbour.</p>
+               <p n="10">
+                  <hi>10.</hi> Thou ſhalt not couet thy Neighbours houſe, thou ſhalt not couet thy neighbours Wife, nor his ſeruant nor his Maide, nor his Oxe, nor his Aſſe, nor any thing that is his.</p>
+            </div>
+            <div type="prayer">
+               <head>¶ A praier before meat.</head>
+               <p>
+                  <hi>O</hi> Merciful Father, the which nouriſheſt al creatures, feede vs with thy giftes, that we miſuſe them not, but being ſtrengthened thereby to all honeſt labour and good woorkes, may liue vertuouſly &amp; godlily in thy light, th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owe Chriſt our Lord. Amen.</p>
+            </div>
+            <div type="prayer">
+               <head>¶ A Prayer after meat.</head>
+               <p>WE thanke thee Lord God heauenlye Father, for thy manyfolde benefites, and we beſeeche thee further, that as thou haſt fed our bodies with corporall meate, ſo thou wilt alſo fatherlye maintaine our ſoules alwaye in true faith and knowledge of thee, through thy deerlye be<g ref="char:EOLhyphen"/>loued ſonne Ieſus Chriſt.</p>
+            </div>
+            <div type="instructions">
+               <list>
+                  <head>Heer after follow Precepts of good liuing.</head>
+                  <item>Feare God.</item>
+                  <item>Loue God.</item>
+                  <item>Keepe his commounde<g ref="char:EOLhyphen"/>ments truely.</item>
+                  <item>Loue thy Neighbour as thy ſelfe.</item>
+                  <item>Doo to thy Neighbour as thou wouldſt be doon vnto.</item>
+                  <item>Be not enuious at the proſ<g ref="char:EOLhyphen"/>peritie of thy Neigh<g ref="char:EOLhyphen"/>bour.</item>
+                  <item>Thou ſhalt beare no falſe witnes againſt thy neighbour.</item>
+                  <item>Serue God dayly with ſome praier.</item>
+                  <pb facs="tcp:191454:9"/>
+                  <item>Bridle the affections of thy minde.</item>
+                  <item>Subdue thy ſenſuall appe<g ref="char:EOLhyphen"/>tites.</item>
+                  <item>Thruſt downe pride.</item>
+                  <item>Refraine thy wrath.</item>
+                  <item>Forget treſpaſſes.</item>
+                  <item>Beleeue and truſt in Chriſt Ieſu.</item>
+                  <item>Call oft for grace of the ho<g ref="char:EOLhyphen"/>ly Ghoaſt.</item>
+                  <item>Loue peace and equitie.</item>
+                  <item>Dread the iudgme<g ref="char:cmbAbbrStroke">̄</g>t of God.</item>
+                  <item>Truſt in the mercy of God.</item>
+                  <item>Be alwaies well occupied.</item>
+                  <item>Loſe no time.</item>
+                  <item>Stand in grace.</item>
+                  <item>Forgiue gladly.</item>
+                  <item>Chaſtice thy body.</item>
+                  <item>Be ſober at thy mouth.</item>
+                  <item>Be ſober of meat and drink.</item>
+                  <item>Be ſober of talking.</item>
+                  <item>Flee ſwearing.</item>
+                  <item>Flee foule laughing.</item>
+                  <item>Loue clenlynes &amp; chaſtitie.</item>
+                  <item>Vſe honeſt company.</item>
+                  <item>Beware of ryot.</item>
+                  <item>Spend meaſurably.</item>
+                  <item>Flee diſhoneſtie.</item>
+                  <item>Be true in woord and deed.</item>
+                  <item>Reuerence thine Elders.</item>
+                  <item>Obey thy ſuperiours.</item>
+                  <item>Be fellow to thine equall.</item>
+                  <item>Be benigne and louing to thine inferiours.</item>
+                  <item>Loue all men of God.</item>
+                  <item>Loue peace and equitie.</item>
+                  <item>Think of death.</item>
+                  <item>Dread the iudgme<g ref="char:cmbAbbrStroke">̄</g>t of God.</item>
+                  <item>Euer take a freſh new good purpoſe.</item>
+                  <item>Perſeuer conſtantly.</item>
+                  <item>Vſe oftentimes confeſſion.</item>
+                  <item>Sorrow for thy ſinnes.</item>
+                  <item>Waſh cleane.</item>
+                  <item>Aſk oft mercy.</item>
+                  <item>Be no ſluggard</item>
+                  <item>Awake quickly.</item>
+                  <item>Make thee rich with vertue</item>
+                  <item>Learne diligent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</item>
+                  <item>Teach that thou haſt lear<g ref="char:EOLhyphen"/>ned louingly,</item>
+                  <item>By this way thou ſhalt co<g ref="char:cmbAbbrStroke">̄</g>e to grace and glory.</item>
+               </list>
+            </div>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for Abraham Veale, dwelling in Paules Churchyard at the ſigne of the Lamb.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
